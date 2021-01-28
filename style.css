@@ -1,0 +1,18 @@
+body{
+    background: rgb(49, 48, 48);
+    font-family: 'Teko', sans-serif;}
+
+.home{
+    color: rgb(8, 233, 158);
+    text-align: center;
+    border: 1px solid rgb(223, 58, 58);
+    border-radius: 20px;
+    text-align: center;
+    width:30%;
+    margin: 10px;
+    float: left;
+}
+.footer{
+    color: chartreuse;
+    text-align: center;
+}
